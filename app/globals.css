@@ -1,14 +1,14 @@
 @import "tailwindcss";
 :root {
-  --navy: #101f33;
-  --navy-deep: #0b1829;
-  --ink: #142239;
-  --muted: #576474;
-  --orange: #ff792f;
-  --orange-dark: #ab410b;
-  --line: #dce1e5;
-  --surface: #f3f5f6;
-  --white: #fff;
+  --navy: #0d3b66;
+  --navy-deep: #06243f;
+  --ink: #0b0d10;
+  --muted: #4d6478;
+  --orange: #dff4ff;
+  --orange-dark: #1e5d8f;
+  --line: #d8eaf8;
+  --surface: #f3f9ff;
+  --white: #ffffff;
   --radius: 8px;
   color-scheme: light;
 }
@@ -53,7 +53,7 @@ input:focus-visible,
 select:focus-visible,
 textarea:focus-visible,
 summary:focus-visible {
-  outline: 3px solid #da570b;
+  outline: 3px solid #1e5d8f;
   outline-offset: 4px;
 }
 img {
@@ -125,7 +125,7 @@ em {
   padding-left: 25px;
 }
 .flag {
-  background: #334355;
+  background: #1b5686;
   padding: 2px 5px;
   margin-left: 7px;
   font-size: 0.65rem;
@@ -241,7 +241,7 @@ em {
   line-height: 1.5;
 }
 .eyebrow.light {
-  color: #ffb185;
+  color: #dff4ff;
 }
 .eyebrow-line {
   width: 25px;
