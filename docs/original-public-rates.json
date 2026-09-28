@@ -1,0 +1,1148 @@
+{
+  "economy_rates": {
+    "gp": {
+      "major": {
+        "BFN": {
+          "BFN": 2.66,
+          "CPT": 6.8,
+          "DUR": 5.39,
+          "ELS": 7.67,
+          "JNB": 3.6,
+          "PLZ": 7.6,
+          "NLP": 6.77,
+          "GRJ": 8.03,
+          "KIM": 5.7,
+          "PTG": 7.15
+        },
+        "CPT": {
+          "BFN": 6.8,
+          "CPT": 2.66,
+          "DUR": 4.99,
+          "ELS": 5.74,
+          "JNB": 4.14,
+          "PLZ": 5.53,
+          "NLP": 7.09,
+          "GRJ": 5.15,
+          "KIM": 8.57,
+          "PTG": 7.5
+        },
+        "DUR": {
+          "BFN": 5.39,
+          "CPT": 4.99,
+          "DUR": 2.66,
+          "ELS": 6.37,
+          "JNB": 3.12,
+          "PLZ": 6.67,
+          "NLP": 5.34,
+          "GRJ": 7.2,
+          "KIM": 6.31,
+          "PTG": 5.34
+        },
+        "ELS": {
+          "BFN": 7.67,
+          "CPT": 6.37,
+          "DUR": 6.37,
+          "ELS": 2.66,
+          "JNB": 4.43,
+          "PLZ": 5.41,
+          "NLP": 7.79,
+          "GRJ": 7.16,
+          "KIM": 8.5,
+          "PTG": 7.15
+        },
+        "JNB": {
+          "BFN": 3.6,
+          "CPT": 4.14,
+          "DUR": 3.12,
+          "ELS": 4.43,
+          "JNB": 2.66,
+          "PLZ": 4.44,
+          "NLP": 3.74,
+          "GRJ": 5.81,
+          "KIM": 4.43,
+          "PTG": 3.74
+        },
+        "PLZ": {
+          "BFN": 7.6,
+          "CPT": 5.53,
+          "DUR": 6.67,
+          "ELS": 6.61,
+          "JNB": 4.44,
+          "PLZ": 2.66,
+          "NLP": 6.88,
+          "GRJ": 6.76,
+          "KIM": 8.21,
+          "PTG": 7.44
+        },
+        "NLP": {
+          "BFN": 6.77,
+          "CPT": 7.09,
+          "DUR": 5.34,
+          "ELS": 7.79,
+          "JNB": 3.74,
+          "PLZ": 6.88,
+          "NLP": 2.66,
+          "GRJ": 9,
+          "KIM": 8.71,
+          "PTG": 9.2
+        },
+        "GRJ": {
+          "BFN": 8.03,
+          "CPT": 5.15,
+          "DUR": 7.2,
+          "ELS": 7.16,
+          "JNB": 5.81,
+          "PLZ": 6.76,
+          "NLP": 9,
+          "GRJ": 2.66,
+          "KIM": 8.64,
+          "PTG": 8.89
+        },
+        "KIM": {
+          "BFN": 5.7,
+          "CPT": 8.57,
+          "DUR": 6.31,
+          "ELS": 8.5,
+          "JNB": 4.43,
+          "PLZ": 8.21,
+          "NLP": 8.64,
+          "GRJ": 8.72,
+          "KIM": 2.66,
+          "PTG": 8.03
+        },
+        "PTG": {
+          "BFN": 7.15,
+          "CPT": 7.5,
+          "DUR": 5.34,
+          "ELS": 7.87,
+          "JNB": 3.74,
+          "PLZ": 7.44,
+          "NLP": 9.2,
+          "GRJ": 8.89,
+          "KIM": 8.03,
+          "PTG": 2.66
+        }
+      },
+      "regional": {
+        "BFN": {
+          "BFN": 5.14,
+          "CPT": 10.1,
+          "DUR": 8.41,
+          "ELS": 11.15,
+          "JNB": 6.26,
+          "PLZ": 11.06,
+          "GRJ": 11.58,
+          "NLP": 10.07,
+          "KIM": 8.78,
+          "PTG": 10.52
+        },
+        "CPT": {
+          "BFN": 10.1,
+          "CPT": 5.14,
+          "DUR": 7.93,
+          "ELS": 8.83,
+          "JNB": 6.91,
+          "PLZ": 8.58,
+          "GRJ": 8.12,
+          "NLP": 10.45,
+          "KIM": 12.23,
+          "PTG": 10.94
+        },
+        "DUR": {
+          "BFN": 8.41,
+          "CPT": 7.93,
+          "DUR": 5.14,
+          "ELS": 6.37,
+          "JNB": 5.69,
+          "PLZ": 6.67,
+          "GRJ": 10.58,
+          "NLP": 8.35,
+          "KIM": 9.52,
+          "PTG": 8.35
+        },
+        "ELS": {
+          "BFN": 11.15,
+          "CPT": 9.59,
+          "DUR": 9.59,
+          "ELS": 5.14,
+          "JNB": 7.26,
+          "PLZ": 8.44,
+          "GRJ": 10.54,
+          "NLP": 11.29,
+          "KIM": 12.14,
+          "PTG": 10.52
+        },
+        "JNB": {
+          "BFN": 6.26,
+          "CPT": 6.91,
+          "DUR": 5.69,
+          "ELS": 7.26,
+          "JNB": 5.14,
+          "PLZ": 7.27,
+          "GRJ": 8.92,
+          "NLP": 6.43,
+          "KIM": 7.26,
+          "PTG": 6.43
+        },
+        "PLZ": {
+          "BFN": 11.06,
+          "CPT": 8.58,
+          "DUR": 9.95,
+          "ELS": 9.59,
+          "JNB": 7.27,
+          "PLZ": 5.14,
+          "GRJ": 10.06,
+          "NLP": 10.2,
+          "KIM": 11.8,
+          "PTG": 10.87
+        },
+        "GRJ": {
+          "BFN": 11.58,
+          "CPT": 8.12,
+          "DUR": 10.58,
+          "ELS": 10.54,
+          "JNB": 8.92,
+          "PLZ": 10.06,
+          "GRJ": 5.14,
+          "NLP": 12.74,
+          "KIM": 12.31,
+          "PTG": 12.61
+        },
+        "NLP": {
+          "BFN": 10.07,
+          "CPT": 10.45,
+          "DUR": 8.35,
+          "ELS": 11.29,
+          "JNB": 6.43,
+          "PLZ": 10.2,
+          "GRJ": 12.74,
+          "NLP": 5.14,
+          "KIM": 12.4,
+          "PTG": 12.98
+        },
+        "KIM": {
+          "BFN": 8.78,
+          "CPT": 12.23,
+          "DUR": 9.52,
+          "ELS": 12.14,
+          "JNB": 7.26,
+          "PLZ": 11.8,
+          "GRJ": 12.31,
+          "NLP": 12.4,
+          "KIM": 5.14,
+          "PTG": 11.58
+        },
+        "PTG": {
+          "BFN": 10.52,
+          "CPT": 10.94,
+          "DUR": 8.35,
+          "ELS": 11.39,
+          "JNB": 6.43,
+          "PLZ": 10.87,
+          "GRJ": 12.61,
+          "NLP": 12.98,
+          "KIM": 11.58,
+          "PTG": 5.14
+        }
+      }
+    },
+    "kzn": {
+      "major": {
+        "BFN": {
+          "BFN": 2.66,
+          "CPT": 6.8,
+          "DUR": 5.39,
+          "ELS": 7.67,
+          "JNB": 3.6,
+          "PLZ": 7.6,
+          "NLP": 6.77,
+          "GRJ": 8.03,
+          "KIM": 5.7,
+          "PTG": 7.15
+        },
+        "CPT": {
+          "BFN": 6.8,
+          "CPT": 2.66,
+          "DUR": 4.99,
+          "ELS": 5.74,
+          "JNB": 4.14,
+          "PLZ": 5.53,
+          "NLP": 7.09,
+          "GRJ": 5.15,
+          "KIM": 8.57,
+          "PTG": 7.5
+        },
+        "DUR": {
+          "BFN": 5.39,
+          "CPT": 4.99,
+          "DUR": 2.66,
+          "ELS": 6.37,
+          "JNB": 3.12,
+          "PLZ": 6.67,
+          "NLP": 5.34,
+          "GRJ": 7.2,
+          "KIM": 6.31,
+          "PTG": 5.34
+        },
+        "ELS": {
+          "BFN": 7.67,
+          "CPT": 6.37,
+          "DUR": 6.37,
+          "ELS": 2.66,
+          "JNB": 4.43,
+          "PLZ": 5.41,
+          "NLP": 7.79,
+          "GRJ": 7.16,
+          "KIM": 8.5,
+          "PTG": 7.15
+        },
+        "JNB": {
+          "BFN": 3.6,
+          "CPT": 4.14,
+          "DUR": 3.11,
+          "ELS": 4.43,
+          "JNB": 2.66,
+          "PLZ": 4.44,
+          "NLP": 3.74,
+          "GRJ": 5.81,
+          "KIM": 4.43,
+          "PTG": 3.74
+        },
+        "PLZ": {
+          "BFN": 7.6,
+          "CPT": 5.53,
+          "DUR": 6.67,
+          "ELS": 6.61,
+          "JNB": 4.44,
+          "PLZ": 2.66,
+          "NLP": 6.88,
+          "GRJ": 6.76,
+          "KIM": 8.21,
+          "PTG": 7.44
+        },
+        "NLP": {
+          "BFN": 6.77,
+          "CPT": 7.09,
+          "DUR": 5.34,
+          "ELS": 7.79,
+          "JNB": 3.74,
+          "PLZ": 6.88,
+          "NLP": 2.66,
+          "GRJ": 9,
+          "KIM": 8.71,
+          "PTG": 9.2
+        },
+        "GRJ": {
+          "BFN": 8.03,
+          "CPT": 5.15,
+          "DUR": 7.2,
+          "ELS": 7.16,
+          "JNB": 5.81,
+          "PLZ": 6.76,
+          "NLP": 9,
+          "GRJ": 2.66,
+          "KIM": 8.64,
+          "PTG": 8.89
+        },
+        "KIM": {
+          "BFN": 5.7,
+          "CPT": 8.57,
+          "DUR": 6.31,
+          "ELS": 8.5,
+          "JNB": 4.43,
+          "PLZ": 8.21,
+          "NLP": 8.64,
+          "GRJ": 8.72,
+          "KIM": 2.66,
+          "PTG": 8.03
+        },
+        "PTG": {
+          "BFN": 7.15,
+          "CPT": 7.5,
+          "DUR": 5.34,
+          "ELS": 7.87,
+          "JNB": 3.74,
+          "PLZ": 7.44,
+          "NLP": 9.2,
+          "GRJ": 8.89,
+          "KIM": 8.03,
+          "PTG": 2.66
+        }
+      },
+      "regional": {
+        "BFN": {
+          "BFN": 5.14,
+          "CPT": 10.1,
+          "DUR": 8.41,
+          "ELS": 11.15,
+          "JNB": 6.26,
+          "PLZ": 11.06,
+          "GRJ": 11.58,
+          "NLP": 10.07,
+          "KIM": 8.78,
+          "PTG": 10.52
+        },
+        "CPT": {
+          "BFN": 10.1,
+          "CPT": 5.14,
+          "DUR": 7.93,
+          "ELS": 8.83,
+          "JNB": 6.91,
+          "PLZ": 8.58,
+          "GRJ": 8.12,
+          "NLP": 10.45,
+          "KIM": 12.23,
+          "PTG": 10.94
+        },
+        "DUR": {
+          "BFN": 8.41,
+          "CPT": 7.93,
+          "DUR": 5.14,
+          "ELS": 6.37,
+          "JNB": 5.69,
+          "PLZ": 6.67,
+          "GRJ": 10.58,
+          "NLP": 8.35,
+          "KIM": 9.52,
+          "PTG": 8.35
+        },
+        "ELS": {
+          "BFN": 11.15,
+          "CPT": 9.59,
+          "DUR": 9.59,
+          "ELS": 5.14,
+          "JNB": 7.26,
+          "PLZ": 8.44,
+          "GRJ": 10.54,
+          "NLP": 11.29,
+          "KIM": 12.14,
+          "PTG": 10.52
+        },
+        "JNB": {
+          "BFN": 6.26,
+          "CPT": 6.91,
+          "DUR": 5.69,
+          "ELS": 6.26,
+          "JNB": 5.14,
+          "PLZ": 7.27,
+          "GRJ": 8.92,
+          "NLP": 6.43,
+          "KIM": 7.26,
+          "PTG": 6.43
+        },
+        "PLZ": {
+          "BFN": 11.06,
+          "CPT": 8.58,
+          "DUR": 9.95,
+          "ELS": 9.59,
+          "JNB": 7.27,
+          "PLZ": 5.14,
+          "GRJ": 10.06,
+          "NLP": 10.2,
+          "KIM": 11.8,
+          "PTG": 10.87
+        },
+        "GRJ": {
+          "BFN": 11.58,
+          "CPT": 8.12,
+          "DUR": 10.58,
+          "ELS": 10.54,
+          "JNB": 8.92,
+          "PLZ": 10.86,
+          "GRJ": 5.14,
+          "NLP": 12.74,
+          "KIM": 12.31,
+          "PTG": 12.61
+        },
+        "NLP": {
+          "BFN": 10.07,
+          "CPT": 10.45,
+          "DUR": 8.35,
+          "ELS": 11.29,
+          "JNB": 6.43,
+          "PLZ": 10.2,
+          "GRJ": 12.74,
+          "NLP": 5.14,
+          "KIM": 12.4,
+          "PTG": 12.98
+        },
+        "KIM": {
+          "BFN": 8.78,
+          "CPT": 12.23,
+          "DUR": 9.52,
+          "ELS": 12.14,
+          "JNB": 7.26,
+          "PLZ": 11.8,
+          "GRJ": 12.31,
+          "NLP": 12.4,
+          "KIM": 5.14,
+          "PTG": 11.58
+        },
+        "PTG": {
+          "BFN": 10.52,
+          "CPT": 10.94,
+          "DUR": 8.35,
+          "ELS": 11.39,
+          "JNB": 6.43,
+          "PLZ": 10.87,
+          "GRJ": 12.61,
+          "NLP": 12.98,
+          "KIM": 11.58,
+          "PTG": 5.14
+        }
+      }
+    },
+    "wc": {
+      "major": {
+        "BFN": {
+          "BFN": 2.66,
+          "CPT": 6.8,
+          "DUR": 5.39,
+          "ELS": 7.67,
+          "JNB": 3.6,
+          "PLZ": 7.6,
+          "NLP": 6.77,
+          "GRJ": 8.03,
+          "KIM": 5.7,
+          "PTG": 7.15
+        },
+        "CPT": {
+          "BFN": 6.8,
+          "CPT": 2.66,
+          "DUR": 4.99,
+          "ELS": 5.74,
+          "JNB": 4.14,
+          "PLZ": 5.53,
+          "NLP": 7.09,
+          "GRJ": 5.15,
+          "KIM": 8.57,
+          "PTG": 7.5
+        },
+        "DUR": {
+          "BFN": 5.39,
+          "CPT": 4.99,
+          "DUR": 2.66,
+          "ELS": 6.37,
+          "JNB": 3.12,
+          "PLZ": 6.67,
+          "NLP": 5.34,
+          "GRJ": 7.2,
+          "KIM": 6.31,
+          "PTG": 5.34
+        },
+        "ELS": {
+          "BFN": 7.67,
+          "CPT": 6.37,
+          "DUR": 6.37,
+          "ELS": 2.66,
+          "JNB": 4.43,
+          "PLZ": 5.41,
+          "NLP": 7.79,
+          "GRJ": 7.16,
+          "KIM": 8.5,
+          "PTG": 7.15
+        },
+        "JNB": {
+          "BFN": 3.6,
+          "CPT": 4.14,
+          "DUR": 3.12,
+          "ELS": 4.43,
+          "JNB": 2.66,
+          "PLZ": 4.44,
+          "NLP": 3.74,
+          "GRJ": 5.81,
+          "KIM": 4.43,
+          "PTG": 3.74
+        },
+        "PLZ": {
+          "BFN": 7.6,
+          "CPT": 5.53,
+          "DUR": 6.67,
+          "ELS": 6.61,
+          "JNB": 4.44,
+          "PLZ": 2.66,
+          "NLP": 6.88,
+          "GRJ": 6.76,
+          "KIM": 8.21,
+          "PTG": 7.44
+        },
+        "NLP": {
+          "BFN": 6.77,
+          "CPT": 7.09,
+          "DUR": 5.34,
+          "ELS": 7.79,
+          "JNB": 3.74,
+          "PLZ": 6.88,
+          "NLP": 2.66,
+          "GRJ": 9,
+          "KIM": 8.71,
+          "PTG": 9.2
+        },
+        "GRJ": {
+          "BFN": 8.03,
+          "CPT": 5.15,
+          "DUR": 7.2,
+          "ELS": 7.16,
+          "JNB": 5.81,
+          "PLZ": 6.76,
+          "NLP": 9,
+          "GRJ": 2.66,
+          "KIM": 8.64,
+          "PTG": 8.89
+        },
+        "KIM": {
+          "BFN": 5.7,
+          "CPT": 8.57,
+          "DUR": 6.31,
+          "ELS": 8.5,
+          "JNB": 4.43,
+          "PLZ": 8.21,
+          "NLP": 8.64,
+          "GRJ": 8.72,
+          "KIM": 2.66,
+          "PTG": 8.03
+        },
+        "PTG": {
+          "BFN": 7.15,
+          "CPT": 7.5,
+          "DUR": 5.24,
+          "ELS": 7.87,
+          "JNB": 3.74,
+          "PLZ": 7.44,
+          "NLP": 9.2,
+          "GRJ": 8.89,
+          "KIM": 8.03,
+          "PTG": 2.66
+        }
+      },
+      "regional": {
+        "BFN": {
+          "BFN": 5.14,
+          "CPT": 10.1,
+          "DUR": 8.41,
+          "ELS": 11.15,
+          "JNB": 6.26,
+          "PLZ": 11.06,
+          "GRJ": 11.58,
+          "NLP": 10.07,
+          "KIM": 8.78,
+          "PTG": 10.52
+        },
+        "CPT": {
+          "BFN": 10.1,
+          "CPT": 5.14,
+          "DUR": 7.93,
+          "ELS": 8.83,
+          "JNB": 6.91,
+          "PLZ": 8.58,
+          "GRJ": 8.12,
+          "NLP": 10.45,
+          "KIM": 12.23,
+          "PTG": 10.94
+        },
+        "DUR": {
+          "BFN": 8.41,
+          "CPT": 7.93,
+          "DUR": 5.14,
+          "ELS": 6.37,
+          "JNB": 5.69,
+          "PLZ": 6.67,
+          "GRJ": 10.58,
+          "NLP": 8.35,
+          "KIM": 9.52,
+          "PTG": 8.35
+        },
+        "ELS": {
+          "BFN": 11.15,
+          "CPT": 9.59,
+          "DUR": 9.59,
+          "ELS": 5.14,
+          "JNB": 7.26,
+          "PLZ": 8.44,
+          "GRJ": 10.54,
+          "NLP": 11.29,
+          "KIM": 12.14,
+          "PTG": 10.52
+        },
+        "JNB": {
+          "BFN": 6.26,
+          "CPT": 6.91,
+          "DUR": 5.69,
+          "ELS": 7.26,
+          "JNB": 4.14,
+          "PLZ": 7.27,
+          "GRJ": 8.92,
+          "NLP": 6.43,
+          "KIM": 7.26,
+          "PTG": 6.43
+        },
+        "PLZ": {
+          "BFN": 11.06,
+          "CPT": 8.58,
+          "DUR": 9.95,
+          "ELS": 9.59,
+          "JNB": 7.27,
+          "PLZ": 5.14,
+          "GRJ": 10.06,
+          "NLP": 10.2,
+          "KIM": 11.8,
+          "PTG": 10.87
+        },
+        "GRJ": {
+          "BFN": 11.58,
+          "CPT": 8.12,
+          "DUR": 10.58,
+          "ELS": 10.54,
+          "JNB": 8.92,
+          "PLZ": 10.06,
+          "GRJ": 5.14,
+          "NLP": 12.74,
+          "KIM": 12.31,
+          "PTG": 12.61
+        },
+        "NLP": {
+          "BFN": 10.07,
+          "CPT": 10.45,
+          "DUR": 8.35,
+          "ELS": 11.29,
+          "JNB": 6.43,
+          "PLZ": 10.2,
+          "GRJ": 12.74,
+          "NLP": 5.14,
+          "KIM": 12.4,
+          "PTG": 12.98
+        },
+        "KIM": {
+          "BFN": 8.78,
+          "CPT": 12.23,
+          "DUR": 9.52,
+          "ELS": 12.14,
+          "JNB": 7.26,
+          "PLZ": 11.8,
+          "GRJ": 12.31,
+          "NLP": 12.4,
+          "KIM": 5.14,
+          "PTG": 11.58
+        },
+        "PTG": {
+          "BFN": 10.52,
+          "CPT": 10.94,
+          "DUR": 8.35,
+          "ELS": 11.39,
+          "JNB": 6.43,
+          "PLZ": 10.87,
+          "GRJ": 12.61,
+          "NLP": 12.98,
+          "KIM": 11.58,
+          "PTG": 5.14
+        }
+      }
+    }
+  },
+  "pricing": {
+    "overnight_courier": {
+      "gp": {
+        "min_weight": 5.01,
+        "max_weight": 20.99,
+        "weight_unit": 1,
+        "volumetric_conversion": 5000,
+        "major_centre": {
+          "base_price": 92,
+          "per_weight": 5.58
+        },
+        "regional_centre": {
+          "base_price": 149,
+          "per_weight": 7.88
+        }
+      },
+      "kzn": {
+        "min_weight": 5.01,
+        "max_weight": 20.99,
+        "weight_unit": 1,
+        "volumetric_conversion": 5000,
+        "major_centre": {
+          "base_price": 92,
+          "per_weight": 5.58
+        },
+        "regional_centre": {
+          "base_price": 149,
+          "per_weight": 7.88
+        }
+      },
+      "wc": {
+        "min_weight": 5.1,
+        "max_weight": 20.99,
+        "weight_unit": 1,
+        "volumetric_conversion": 5000,
+        "major_centre": {
+          "base_price": 92,
+          "per_weight": 5.58
+        },
+        "regional_centre": {
+          "base_price": 149,
+          "per_weight": 7.88
+        }
+      },
+      "legacy": {
+        "min_weight": 2,
+        "max_weight": 999999,
+        "weight_unit": "",
+        "volumetric_conversion": 5000,
+        "major_centre": {
+          "base_price": 81,
+          "per_weight": 45.36
+        },
+        "regional_centre": {
+          "base_price": 117.9,
+          "per_weight": 50.4
+        }
+      }
+    },
+    "economy_courier": {
+      "gp": {
+        "min_weight": 21,
+        "max_weight": 999999,
+        "weight_unit": 1,
+        "volumetric_conversion": 5000,
+        "major_centre": {
+          "base_price": 155
+        },
+        "regional_centre": {
+          "base_price": 272
+        }
+      },
+      "kzn": {
+        "min_weight": 21,
+        "max_weight": 999999,
+        "weight_unit": 1,
+        "volumetric_conversion": 5000,
+        "major_centre": {
+          "base_price": 155
+        },
+        "regional_centre": {
+          "base_price": 272
+        }
+      },
+      "wc": {
+        "min_weight": 21,
+        "max_weight": 999999,
+        "weight_unit": 1,
+        "volumetric_conversion": 5000,
+        "major_centre": {
+          "base_price": 155
+        },
+        "regional_centre": {
+          "base_price": 272
+        }
+      },
+      "legacy": {
+        "min_weight": 10,
+        "max_weight": 999999,
+        "weight_unit": 1,
+        "volumetric_conversion": 5000,
+        "major_centre": {
+          "base_price": 103,
+          "min_weight": 10
+        },
+        "regional_centre": {
+          "base_price": 145,
+          "min_weight": 10
+        }
+      }
+    },
+    "eco3_courier": {
+      "gp": {
+        "min_weight": 5,
+        "max_weight": 5,
+        "weight_unit": 1,
+        "volumetric_conversion": 5000,
+        "major_centre": {
+          "base_price": 67.32,
+          "per_weight": 5.12
+        },
+        "regional_centre": {
+          "base_price": 115.65,
+          "per_weight": 6.93
+        }
+      },
+      "kzn": {
+        "min_weight": 5,
+        "max_weight": 5,
+        "weight_unit": 1,
+        "volumetric_conversion": 5000,
+        "major_centre": {
+          "base_price": 67.32,
+          "per_weight": 5.12
+        },
+        "regional_centre": {
+          "base_price": 115.65,
+          "per_weight": 6.93
+        }
+      },
+      "wc": {
+        "min_weight": 5,
+        "max_weight": 5,
+        "weight_unit": 1,
+        "volumetric_conversion": 5000,
+        "major_centre": {
+          "base_price": 67.32,
+          "per_weight": 5.12
+        },
+        "regional_centre": {
+          "base_price": 115.65,
+          "per_weight": 6.93
+        }
+      },
+      "legacy": {
+        "min_weight": 0,
+        "max_weight": 5,
+        "weight_unit": "",
+        "volumetric_conversion": 5000,
+        "major_centre": {
+          "base_price": 70,
+          "per_weight": 10
+        },
+        "regional_centre": {
+          "base_price": 85,
+          "per_weight": 12
+        }
+      }
+    },
+    "in_city_courier": {
+      "gp": {
+        "min_weight": 10,
+        "max_weight": 999999,
+        "per_weight": 4,
+        "weight_unit": 1,
+        "volumetric_conversion": 5000,
+        "base_price_tiers": {
+          "tier1": {
+            "base_price": 46,
+            "fuel_rate": 0.67,
+            "max_distance": 10,
+            "major_rate_multiplier": 1,
+            "regional_rate_multiplier": 1
+          },
+          "tier2": {
+            "base_price": 52,
+            "fuel_rate": 0.67,
+            "min_distance": 11,
+            "max_distance": 20,
+            "major_rate_multiplier": 1,
+            "regional_rate_multiplier": 1
+          },
+          "tier3": {
+            "base_price": 57,
+            "fuel_rate": 0.67,
+            "min_distance": 21,
+            "max_distance": 60,
+            "major_rate_multiplier": 1,
+            "regional_rate_multiplier": 1
+          },
+          "tier4": {
+            "base_price": 75,
+            "fuel_rate": 0.67,
+            "min_distance": 61,
+            "max_distance": 100,
+            "major_rate_multiplier": 1,
+            "regional_rate_multiplier": 1
+          },
+          "tier5": {
+            "base_price": 130,
+            "fuel_rate": 0.67,
+            "min_distance": 101,
+            "major_rate_multiplier": 1,
+            "regional_rate_multiplier": 1
+          }
+        }
+      },
+      "kzn": {
+        "min_weight": 10,
+        "max_weight": 999999,
+        "per_weight": 4,
+        "weight_unit": 1,
+        "volumetric_conversion": 5000,
+        "base_price_tiers": {
+          "tier1": {
+            "base_price": 46,
+            "fuel_rate": 0.67,
+            "max_distance": 10,
+            "major_rate_multiplier": 1,
+            "regional_rate_multiplier": 1
+          },
+          "tier2": {
+            "base_price": 52,
+            "fuel_rate": 0.67,
+            "min_distance": 11,
+            "max_distance": 20,
+            "major_rate_multiplier": 1,
+            "regional_rate_multiplier": 1
+          },
+          "tier3": {
+            "base_price": 57,
+            "fuel_rate": 0.67,
+            "min_distance": 21,
+            "max_distance": 60,
+            "major_rate_multiplier": 1,
+            "regional_rate_multiplier": 1
+          },
+          "tier4": {
+            "base_price": 75,
+            "fuel_rate": 0.67,
+            "min_distance": 61,
+            "max_distance": 100,
+            "major_rate_multiplier": 1,
+            "regional_rate_multiplier": 1
+          },
+          "tier5": {
+            "base_price": 130,
+            "fuel_rate": 0.67,
+            "min_distance": 101,
+            "major_rate_multiplier": 1,
+            "regional_rate_multiplier": 1
+          }
+        }
+      },
+      "wc": {
+        "min_weight": 10,
+        "max_weight": 999999,
+        "per_weight": 4,
+        "weight_unit": 1,
+        "volumetric_conversion": 5000,
+        "base_price_tiers": {
+          "tier1": {
+            "base_price": 46,
+            "fuel_rate": 0.67,
+            "max_distance": 10,
+            "major_rate_multiplier": 1,
+            "regional_rate_multiplier": 1
+          },
+          "tier2": {
+            "base_price": 52,
+            "fuel_rate": 0.67,
+            "min_distance": 11,
+            "max_distance": 20,
+            "major_rate_multiplier": 1,
+            "regional_rate_multiplier": 1
+          },
+          "tier3": {
+            "base_price": 57,
+            "fuel_rate": 0.67,
+            "min_distance": 21,
+            "max_distance": 60,
+            "major_rate_multiplier": 1,
+            "regional_rate_multiplier": 1
+          },
+          "tier4": {
+            "base_price": 75,
+            "fuel_rate": 0.67,
+            "min_distance": 61,
+            "max_distance": 100,
+            "major_rate_multiplier": 1,
+            "regional_rate_multiplier": 1
+          },
+          "tier5": {
+            "base_price": 130,
+            "fuel_rate": 0.67,
+            "min_distance": 101,
+            "major_rate_multiplier": 1,
+            "regional_rate_multiplier": 1
+          }
+        }
+      },
+      "legacy": {
+        "min_weight": 5,
+        "max_weight": 999999,
+        "per_weight": 3,
+        "weight_unit": 1,
+        "volumetric_conversion": 6000,
+        "base_price_tiers": {
+          "tier1": {
+            "base_price": 51.2,
+            "fuel_rate": 0.25,
+            "max_distance": 20,
+            "major_rate_multiplier": 1,
+            "regional_rate_multiplier": 1
+          },
+          "tier2": {
+            "base_price": 51.2,
+            "fuel_rate": 0.25,
+            "min_distance": 21,
+            "max_distance": 50,
+            "major_rate_multiplier": 1,
+            "regional_rate_multiplier": 1
+          },
+          "tier3": {
+            "base_price": 51.2,
+            "fuel_rate": 0.35,
+            "min_distance": 51,
+            "max_distance": 80,
+            "major_rate_multiplier": 1,
+            "regional_rate_multiplier": 1
+          },
+          "tier4": {
+            "base_price": 51.2,
+            "fuel_rate": 0.4,
+            "min_distance": 81,
+            "max_distance": 110,
+            "major_rate_multiplier": 1,
+            "regional_rate_multiplier": 1
+          },
+          "tier5": {
+            "base_price": 66,
+            "fuel_rate": 0.45,
+            "min_distance": 111,
+            "major_rate_multiplier": 1,
+            "regional_rate_multiplier": 1
+          }
+        }
+      }
+    }
+  },
+  "fees": {
+    "surplus_fee": "9",
+    "fuel_charge_rate": "0.4",
+    "economy_fees": {
+      "gp": {
+        "surplus_fee": 4.5,
+        "fuel_charge_rate": 0.66
+      },
+      "kzn": {
+        "surplus_fee": 4.5,
+        "fuel_charge_rate": 0.66
+      },
+      "wc": {
+        "surplus_fee": 4.5,
+        "fuel_charge_rate": 0.66
+      }
+    },
+    "overnight_fees": {
+      "gp": {
+        "surplus_fee": 4.5,
+        "fuel_charge_rate": 0.66
+      },
+      "kzn": {
+        "surplus_fee": 4.5,
+        "fuel_charge_rate": 0.66
+      },
+      "wc": {
+        "surplus_fee": 4.5,
+        "fuel_charge_rate": 0.66
+      }
+    },
+    "eco3_fees": {
+      "gp": {
+        "surplus_fee": 4.5,
+        "fuel_charge_rate": 0.66
+      },
+      "kzn": {
+        "surplus_fee": 4.5,
+        "fuel_charge_rate": 0.66
+      },
+      "wc": {
+        "surplus_fee": 4.5,
+        "fuel_charge_rate": 0.66
+      }
+    }
+  }
+}
